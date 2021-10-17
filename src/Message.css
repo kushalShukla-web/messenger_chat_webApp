@@ -1,0 +1,13 @@
+.container {
+    border: 2px solid hsl(0, 0%, 87%);
+    background-color:#e9e9eb;
+    text-align: left;
+    margin: 10px;
+    border-radius: 5px;
+    width:fit-content
+  }
+   .container__user{
+     margin-left:auto;
+  background-color:#0b81ff;
+  text-align: right;
+  } 
