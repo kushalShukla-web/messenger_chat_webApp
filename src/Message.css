@@ -1,13 +1,14 @@
 .container {
-    border: 2px solid hsl(0, 0%, 87%);
-    background-color:#e9e9eb;
-    text-align: left;
-    margin: 10px;
-    border-radius: 5px;
-    width:fit-content
-  }
-   .container__user{
-     margin-left:auto;
-  background-color:#0b81ff;
+  border: 2px solid hsl(0, 0%, 79%);
+  background-color: #d8d8d8;
+  text-align: left;
+  margin: 10px;
+  border-radius: 25px;
+  width: fit-content;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container__user {
+  margin-left: auto;
+  background-color: #0b81ffbd;
   text-align: right;
-  } 
+}
