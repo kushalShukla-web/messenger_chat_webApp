@@ -5,6 +5,7 @@ A real-time chat application inspired by Facebook Messenger, built using React, 
 
 ## Table of Contents
 
+
 - [Demo](#demo)
 - [Features](#features)
 - - [Real-time Messaging](#real-time-messaging)
@@ -22,7 +23,7 @@ A real-time chat application inspired by Facebook Messenger, built using React, 
 
 ## Demo
 
-![ezgif-5-47073294bc](https://github.com/kushalShukla-web/messenger_chat_webApp/assets/85934954/58925e1b-e258-4b53-a6e0-b482443c14ba)
+![Screenshot (153)](https://github.com/kushalShukla-web/messenger_chat_webApp/assets/85934954/96d5b073-bd5c-4ea3-8736-cd0012ccf462)
 
 ## Features
 
