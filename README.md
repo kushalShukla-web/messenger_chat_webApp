@@ -23,7 +23,7 @@ A real-time chat application inspired by Facebook Messenger, built using React, 
 
 ## Demo
 
-![Screenshot (153)](https://github.com/kushalShukla-web/messenger_chat_webApp/assets/85934954/96d5b073-bd5c-4ea3-8736-cd0012ccf462)
+![Screenshot (154)](https://github.com/kushalShukla-web/messenger_chat_webApp/assets/85934954/8e6535d0-fa3a-4dae-9b33-f77b4eaee9a6)
 
 ## Features
 
